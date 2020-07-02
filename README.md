@@ -1,2 +1,2 @@
 # LeetCode_Solutions
- A repository used to store my LeetCode Solutions.
+This repository is used to store my LeetCode Solutions. In C/Java/C++(maybe)/Python(maybe)
